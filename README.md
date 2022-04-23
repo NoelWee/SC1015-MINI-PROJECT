@@ -28,7 +28,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 The exploratory data analysis for each input variable and their subsequent evaluation using machine learning techniques are in the following notebooks. We chose to exclude Episodes and Score from our input variables selection due to their high amount of outliers. 
 
 1. [EDA for Episodes](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20EPISODES%20EXPLORATORY%20DATA%20ANALYSIS.ipynb)
-2. [Score Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20SCORE%20ANALYSIS.ipynbb)
+2. [High Score Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20SCORE%20ANALYSIS.ipynbb)
 3. [Studios Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20STUDIOS%20ANALYSIS.ipynb)
 4. [Genres Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20GENRES%20ANALYSIS.ipynb)
 5. [Sources Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20SOURCE%20ANALYSIS.ipynb)
