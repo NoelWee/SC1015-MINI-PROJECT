@@ -34,7 +34,7 @@ The exploratory data analysis for each input variable and their subsequent evalu
 5. [Sources Analysis](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)\
 6. [Age Ratings Analysis]
 
-## Conclusion
+## Conclusions
 
 - Contrary to common beliefs, just because an anime has a high Score (Score > 8), it does not mean it has a high completion rate. Our findings have concluded that not only is Score a bad input variable to predict Completion Percentage, but there does not even exist a relationship (linear/non-linear) between the two.
 
@@ -48,7 +48,7 @@ The exploratory data analysis for each input variable and their subsequent evalu
 
 
 
-## What did we learn from this project?
+## Key Takeaways
 
 - Handling and understanding our dataset
 - Cleaning up our Dataset and preparing it for analysis
