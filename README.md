@@ -7,7 +7,7 @@ Anime Analysis Mini-Project for SC1015 - Introduction to Data Science and Artifi
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime from [The Anime Recommendations Database] on Kaggle (https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=watching_status.csv).
 
-Our presentation slides can be found [here] (https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20Mini-Project%20(SC20%20Grp%207%2C%20Noel%20and%20Tharun).pdf)
+Our presentation slides can be found [here](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20Mini-Project%20(SC20%20Grp%207%2C%20Noel%20and%20Tharun).pdf)
   
 ## Contributors
 
@@ -34,7 +34,7 @@ The exploratory data analysis for each input variable and their subsequent evalu
 3. [Studios Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20STUDIOS%20ANALYSIS.ipynb)
 4. [Genres Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20GENRES%20ANALYSIS.ipynb)
 5. [Sources Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20SOURCE%20ANALYSIS.ipynb)
-6. [Age Ratings Analysis] (https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20AGE%20RATINGS%20ANALYSIS.ipynb)
+6. [Age Ratings Analysis](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20AGE%20RATINGS%20ANALYSIS.ipynb)
 
 ## Conclusions
 
