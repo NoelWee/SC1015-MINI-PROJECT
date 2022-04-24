@@ -64,7 +64,7 @@ The exploratory data analysis for each input variable and their subsequent evalu
 
 ## References
 - Agarwal, A. (2018). Polynomial Regression - Towards Data Science. Towards Data Science. 
-from https://towardsdatascience.com/polynomial-regression-bbe8b9d97491[Accessed on April 3] 
+from https://towardsdatascience.com/polynomial-regression-bbe8b9d97491 [Accessed on April 3] 
 
 - Harika, B. (2021) K-Modes Clustering Algorithm for Categorical Data
 https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/ [Accessed on 15 April]
