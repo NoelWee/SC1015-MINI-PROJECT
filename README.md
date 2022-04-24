@@ -10,7 +10,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 
 - @NoelWee -  Data Extraction, Data Cleaning, Exploratory Data Analysis, K-Means Model, K-Modes Model and Overall Analysis
-- @Tharun - Data Extraction, Data Cleaning, Exploratory Data Analysis, Linear Regression, Polynomic Regression and Overall Analysis
+- @Tharun1207 - Data Extraction, Data Cleaning, Exploratory Data Analysis, Linear Regression, Polynomic Regression and Overall Analysis
 
 ## Problem Definition
 
