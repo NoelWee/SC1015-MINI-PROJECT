@@ -10,13 +10,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 
 - @NoelWee -  Data Extraction, Data Cleaning, Exploratory Data Analysis, K-Means Model, K-Modes Model and Overall Analysis
-- @Tharun1207 - Data Extraction, Data Cleaning, Exploratory Data Analysis, Linear Regression, Polynomic Regression and Overall Analysis
+- @Tharun1207 - Data Extraction, Data Cleaning, Exploratory Data Analysis, Linear Regression, Polynomial Regression and Overall Analysis
 
 ## Problem Definition
 
 - Based on various factors, how likely is someone to complete an anime?
-- Input Variables: High Score (Score > 8/10), Studios, Genres, Sources, Age Ratings
-- Output: Completion Percentage
+- Predictors: High Score Percentage (Score > 8/10), Studios, Genres, Sources, Age Ratings
+- Response Variables: Completion Percentage
 
 ## Models Used
 
@@ -36,7 +36,7 @@ The exploratory data analysis for each input variable and their subsequent evalu
 
 ## Conclusions
 
-- Contrary to common beliefs, just because an anime has a high Score (Score > 8), it does not mean it has a high completion rate. Our findings have concluded that not only is Score a bad input variable to predict Completion Percentage, but there does not even exist a relationship (linear/non-linear) between the two.
+- Contrary to common beliefs, just because an anime has a high score (Score > 8), it does not mean it has a high completion rate. Our findings have concluded that not only is Score a bad input variable to predict Completion Percentage, but there does not even exist a relationship (linear/non-linear) between the two.
 
 - Among the hundreds of Studios clustered using our K-Means model, the top 5 Studios (in terms of no. of anime produced) belonging to the best cluster are J.C Staff, Madhouse, Production I.G, OLM and Nippon Animation. Their high median Completion Percentage also reflects current trends, as the 5 aforementioned Studios have produced many popular and widely-known animes, both past and present. Examples include Pokemon (1997), Hunter X Hunter (1999), Toradora (2006), One-Punch Man (2015) and Haikyuu! (2020)
 
@@ -53,8 +53,8 @@ The exploratory data analysis for each input variable and their subsequent evalu
 - Handling and understanding our dataset
 - Cleaning up our Dataset and preparing it for analysis
 - Application of Linear Regression from sklearn
-- The new aforementioned models and how they operate (Polynomic Regression, K-Means, K-Modes)
-- Usage of Label encoding in order for our models to evaluate categorical data
+- The new aforementioned models and how they operate (Polynomial Regression, K-Means, K-Modes)
+- Usage of Label Encoding in order for our models to evaluate categorical data
 - Using techniques other than R^2 and confusion matrix to evaluate the accuracy of our models, especially since K-Means and K-Modes are unsupervised (Elbow Test, Silhouette Analysis)
 - Separation of individual clusters and evaluating the each cluster's statistics
 - Drawing conclusions from our findings
