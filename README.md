@@ -38,7 +38,7 @@ The exploratory data analysis for each input variable and their subsequent evalu
 
 - Contrary to common beliefs, just because an anime has a high Score (Score > 8), it does not mean it has a high completion rate. Our findings have concluded that not only is Score a bad input variable to predict Completion Percentage, but there does not even exist a relationship (linear/non-linear) between the two.
 
-- Among the hundreds of Studios clustered using our K-Means model, the top 5 Studios (in terms of no. of anime produced) belonging to the best cluster are J.C Staff, Madhouse, Production I.G, OLM and Nippon Animation. Their high median Completion Percentage also reflects current trends, as the 5 Studios have produced many popular and widely-known animes, both past and present. Examples include Pokemon (1997), Hunter X Hunter (1999), Toradora (2006), One-Punch Man (2015) and Haikyuu! (2020)
+- Among the hundreds of Studios clustered using our K-Means model, the top 5 Studios (in terms of no. of anime produced) belonging to the best cluster are J.C Staff, Madhouse, Production I.G, OLM and Nippon Animation. Their high median Completion Percentage also reflects current trends, as the 5 aforementioned Studios have produced many popular and widely-known animes, both past and present. Examples include Pokemon (1997), Hunter X Hunter (1999), Toradora (2006), One-Punch Man (2015) and Haikyuu! (2020)
 
 - The best genres we have gathered from our analysis are Comedy, Drama, Fantasy and Game, all generally popular amongst viewers. Comedy also has the highest anime frequency count among all 40 unique genres we managed to gather.
 
@@ -61,10 +61,22 @@ The exploratory data analysis for each input variable and their subsequent evalu
 
 
 ## References
+- Agarwal, A. (2018). Polynomial Regression - Towards Data Science. Towards Data Science. 
+from https://towardsdatascience.com/polynomial-regression-bbe8b9d97491[Accessed on April 3] 
+
+- Harika, B. (2021) K-Modes Clustering Algorithm for Categorical Data
+https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/ [Accessed on 15 April]
+
+- Imad Dabbura. K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks   
+https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a [Accessed on 10 April]
 
 - Kaggle. Anime Recommendations Dataset
 https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=watching_status.csv [Accessed on 12 March]
 
+- Radečić, D. (2022). Top 3 Methods for Handling Skewed Data - Towards Data Science. 
+Towards Data Science. From https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45#:%7E:text=Log%20transformation%20is%20most%20likely,coefficient%20of%205.2%20to%200.4.
+[Accessed on April 8, 2022] 
 
-- Imad Dabbura. K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a [Accessed on 10 April]
+
+
 
