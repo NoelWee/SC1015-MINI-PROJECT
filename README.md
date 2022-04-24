@@ -5,7 +5,7 @@ Anime Analysis Mini-Project for SC1015 - Introduction to Data Science and Artifi
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime from [The Anime Recommendations Database] on Kaggle (https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=watching_status.csv).
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime from [The Anime Recommendations Database on Kaggle](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=watching_status.csv).
 
 Our presentation slides can be found [here](https://github.com/NoelWee/SC1015-MINI-PROJECT/blob/main/SC1015%20Mini-Project%20(SC20%20Grp%207%2C%20Noel%20and%20Tharun).pdf)
   
