@@ -50,7 +50,7 @@ The exploratory data analysis for each input variable and their subsequent evalu
 
 
 
-## Key Takeaways
+## Key Learning Points
 
 - Handling and understanding our dataset
 - Cleaning up our Dataset and preparing it for analysis
